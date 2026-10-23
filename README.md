@@ -12,7 +12,7 @@ D - Fliper derecho
 Space - Lanzar bola de pinball(No funciona, pero si tiene la logica y comprobaciones por debajo)
 
 -----------------------------------
-Materiales fisicos
+Materiales fisicos:
 Bola:
     Fricción: 0,1
     Fricción estática: 0,05
