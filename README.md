@@ -12,7 +12,7 @@ D - Fliper derecho
 Space - Lanzar bola de pinball(No funciona, pero si tiene la logica y comprobaciones por debajo)
 
 -----------------------------------
-Materiales fisicos:
+Materiales físicos:
 Bola:
     Fricción: 0,1
     Fricción estática: 0,05
@@ -41,4 +41,5 @@ Suelo:
 
 ---------------------------------
 La bola rebota y da puntos al chocar contra algunos elementos del pinball.
-Tambien añadi un material fisico al suelo del pinball para combinarlo con el de la bola.
+También añadí un material físico al suelo del pinball para combinarlo con el de la bola y generar un movimiento mas realista.
+Tambien se encuentra el resto del escenario decorado de manera coherente y con algo de dinamismo en elementos como los balones de baloncesto (rotados para que no parezcan repeticiones).
