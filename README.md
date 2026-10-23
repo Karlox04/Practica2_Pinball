@@ -1,5 +1,3 @@
-Creado por: Carlos Sánchez Rodríguez
-
 Pinball Interactivo
 ----------------------------------
 Controles:
